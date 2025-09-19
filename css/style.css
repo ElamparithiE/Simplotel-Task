@@ -350,7 +350,7 @@ body {
       padding: 2rem;
       max-width: 1400px;
       margin: 0 auto;
-      margin-top: 100px;
+/*       margin-top: 100px; */
     }
 
     /* Collage Section */
@@ -504,6 +504,7 @@ body {
         flex-direction: column;
         gap: 2rem;
         padding: 1.5rem;
+       margin-top: 250px;
       }
       
       .collage {
@@ -525,6 +526,7 @@ body {
     @media (max-width: 767px) {
       .main-content {
         padding: 1rem;
+         margin-top: 280px;
       }
       
       .collage {
@@ -569,6 +571,7 @@ body {
       .main-content {
         padding: 0.5rem;
         gap: 1.5rem;
+      margin-top: 10px;
       }
       
       .collage-grid {
@@ -646,5 +649,6 @@ body {
         margin-bottom: 1rem;
       }
     }
+
 
    
